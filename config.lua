@@ -8,6 +8,6 @@ Config.Cars = {
 		-- m3  = maximum speed with level 3 engine
 		-- m4  = maximum speed with level 4 engine
 
-	-- exemplo
+	-- example
 		{ c = 'skyline', vel = 210, m1 = 215, m2 = 215, m3 = 215, m4 = 220 },
 }
