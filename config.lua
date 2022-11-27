@@ -1,12 +1,12 @@
 Config = {}
 
 Config.Cars = {
-	-- método de uso
-		-- vel = velocidade máxima sem tunning
-		-- m1  = velocidade máxima com motor nível 1
-		-- m2  = velocidade máxima com motor nível 2
-		-- m3  = velocidade máxima com motor nível 3
-		-- m4  = velocidade máxima com motor nível 4
+	-- method of use
+		-- vel = maximum speed without tuning
+		-- m1  = maximum speed with level 1 engine
+		-- m2  = maximum speed with level 2 engine
+		-- m3  = maximum speed with level 3 engine
+		-- m4  = maximum speed with level 4 engine
 
 	-- exemplo
 		{ c = 'skyline', vel = 210, m1 = 215, m2 = 215, m3 = 215, m4 = 220 },
